@@ -13,3 +13,7 @@ console.log(user.domain);
 let lower_case = "HELLO MANIA";
 let m=lower_case.toLocaleLowerCase();
 console.log(m);
+
+
+import helloWorld from "./hello.js";
+helloWorld(100,200);
